@@ -1,0 +1,154 @@
+.wrapper {
+    min-height: 600px;
+    background: #183257; /* For browsers that do not support gradients */
+    background: linear-gradient(to left, #183257, #264766); 
+}
+.home-pin {
+    width: 5em;
+    height: 15em;
+    background-color: #1cade4;
+    margin-right: 5rem;
+}
+.home-signup {
+    min-height: 400px;
+}
+.home-logo {
+    min-height: 500px;
+}
+.home-btn {
+    padding: .4em 1.5em;
+    font-size: 2em;
+    font-weight: 700;  
+    display: inline-block;
+    text-decoration: none;
+}
+.btn-signup:hover {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    text-decoration: none;
+}
+.btn-signin:hover {
+    background-color: #fff;
+    color: #183257;
+    text-decoration: none;
+}
+.btn-signup {
+    background-color: #fff;
+    color: #183257
+}
+.btn-signin {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
+.home-footer {
+    color: #fff;
+    font-size: 1.2em;
+    min-height: 100px;
+}
+.btn {
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.float {
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #183257;
+    background-position: center bottom, center calc(100% - 1px); 
+    box-shadow: none;
+}
+.q {
+    min-height: 250px;
+    width: 250px;
+    border: 1px solid#264766;
+    background-color: gainsboro;
+    margin: 3px;
+    text-align: center;
+}
+.zoo {
+    margin: 15px;
+    margin-left: 50em;
+}
+.zoo1 {
+    margin: 10px;
+    margin-left: 57em;
+    color: lightseagreen;
+}
+.big {
+    min-height: 350px;
+    width: 500px;
+    border: 2px solid#264766;
+    background-color: gainsboro;
+    margin: 3px;
+    text-align: center;
+
+}
+.top-h-50 {
+    height: 50px;
+    width: auto;
+}
+.top-h-30 {
+    height: 30px;
+    width: auto;
+}
+.buttom-h-25 {
+    height: 20px;
+    width: auto;
+}
+.v-items {
+    flex-direction: column;
+}
+.kole-bg-primary {
+    background-color: #183257;
+}
+.kole-c-white {
+    color: #fff;
+}
+.kole-footer {
+    min-height: 100px;
+}
+.kole-page-border {
+    border: solid #183257 5px;
+}
+.kole-btn-border {
+    border: 2px solid#fff;
+}
+.kole-btn-signup {
+    background-color: #264766;
+    color: #fff;
+    font-weight: 500;
+}
+.kole-btn {
+    padding: .4em 5em;
+    font-size: 1.5em;
+    font-weight: 700;  
+    display: inline-block;
+    text-decoration: none;
+    border: 3px solid#fff;
+}
+.kole-text {
+    line-height: 4px;
+    font-size: .9em;
+}
+.kole-marg {
+    margin-top: 2em 2em;
+}
+.kole-home-signin {
+    min-height: 100px;
+    padding-left: 2em;
+    padding-right: 5em;
+}

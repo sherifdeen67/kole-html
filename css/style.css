@@ -1,0 +1,23 @@
+.top-h-50 {
+    height: 50px;
+    width: auto;
+}
+.top-h-30 {
+    height: 30px;
+    width: auto;
+}
+.v-items {
+    flex-direction: column;
+}
+.kole-bg-primary {
+    background-color: #183257;
+}
+.kole-c-white {
+    color: #fff;
+}
+.kole-footer {
+    min-height: 100px;
+}
+.kole-page-border {
+    border: solid #183257 5px;
+}
