@@ -152,3 +152,21 @@
     padding-left: 2em;
     padding-right: 5em;
 }
+.kole-box {
+    border: 2px solid#fff;
+    background-color: transparent;
+    font-size: 1.7em;
+    font-weight: 600;
+    color: azure;
+}
+.kole-t {
+    color: #fff; 
+}
+.kole-style {
+    border: 3px solid#264766;
+    color: #183257;
+    min-height: 50px;
+    width: 200px;
+    font-size: 1.1em;
+    font-weight: 500;
+}
