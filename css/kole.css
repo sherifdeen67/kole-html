@@ -104,6 +104,14 @@
     margin: 3px;
     text-align: center;
 }
+.big2 {
+    min-height: 50px;
+    width: 680px;
+    border: 4px solid#264766;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.5em;
+}
 .big-a {
     min-height: 600px;
     width: 900px;
@@ -183,5 +191,16 @@
     min-height: 50px;
     width: 200px;
     font-size: 1.1em;
+    font-weight: 500;
+}
+.kole-ul {
+    list-style-type: none;
+}
+.kole-height {
+    min-height: 50px;
+}
+.kole-font {
+    color: #264766;
+    font-size: 1em;
     font-weight: 500;
 }
