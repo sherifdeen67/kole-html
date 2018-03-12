@@ -201,6 +201,11 @@
 }
 .kole-font {
     color: #264766;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+.kole-font-white {
+    color: #fff;
     font-size: 1em;
     font-weight: 500;
 }
