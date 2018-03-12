@@ -95,7 +95,22 @@
     background-color: gainsboro;
     margin: 3px;
     text-align: center;
-
+}
+.big1 {
+    min-height: 350px;
+    width: 400px;
+    border: 2px solid#264766;
+    background-color: gainsboro;
+    margin: 3px;
+    text-align: center;
+}
+.big-a {
+    min-height: 600px;
+    width: 900px;
+    border: 2px solid#264766;
+    background-color: gainsboro;
+    margin: 3px;
+    text-align: center;
 }
 .top-h-50 {
     height: 50px;
